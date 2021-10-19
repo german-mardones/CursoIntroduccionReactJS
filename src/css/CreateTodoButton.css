@@ -1,0 +1,15 @@
+.buttonCreateTodo{
+    background-color: transparent;
+    color: rgb(107, 60, 155);
+    border-radius: 50%;
+    font-size: 62px;
+    font-weight: 900;
+    border: none;
+    position: absolute;
+    left: 48%;
+    padding: 0px 18px ;
+}
+.buttonCreateTodo:hover{
+    color: rgb(121, 93, 150);
+    background-color: #393f88;
+}

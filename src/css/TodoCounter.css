@@ -1,0 +1,17 @@
+.subTitleCounter{
+    font-size: 20px;
+    text-align: center;
+    color: whitesmoke;
+    margin: 0;
+    font-weight: 100;
+}
+.titleCounter{
+    font-size: 32px;
+    text-align: center;
+    color:whitesmoke;
+    margin-top: 4%;
+    font-weight: 800;   
+}
+.imageCounter{
+    vertical-align: middle;
+}

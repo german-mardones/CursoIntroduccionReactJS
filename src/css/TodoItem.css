@@ -1,0 +1,34 @@
+.liItem{
+    background-color: whitesmoke;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    width: 400px;
+    text-align: center;
+    list-style: none;
+    padding-top: 8px;
+    border-radius: 10px;
+    position: absolute;
+    left: 36%;
+    position: relative;
+}
+.titleItem{
+    font-weight: 800;    
+    font-size: 18px;
+}
+.textItem{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    font-size: 15px;
+    text-align: left;
+}
+.buttonItem{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background-color: gray;
+    padding: 5px 5px 5px 5px; 
+    border-radius: 5px;    
+    color: white;
+    border: 0px;
+}
