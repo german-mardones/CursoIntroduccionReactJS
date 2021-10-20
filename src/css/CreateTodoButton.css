@@ -8,6 +8,7 @@
     position: absolute;
     left: 48%;
     padding: 0px 18px ;
+    z-index: 1;
 }
 .buttonCreateTodo:hover{
     color: rgb(121, 93, 150);
